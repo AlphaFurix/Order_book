@@ -12,25 +12,6 @@ You can place buy/sell orders through the web UI, which are instantly stored in 
 
 ---
 
-## Directory Structure
-
-FinancialOrderSystem/
-│
-├── Backend/
-│ ├── main.cpp
-│ ├── orderbook.cpp
-│ ├── orderbook.h
-│ ├── sqlite3.c
-│ ├── sqlite3.h
-│ ├── httplib.h
-│ ├── json.hpp
-│
-└── Frontend/
-├── index.html
-├── app.js
-└── style.css
-
----
 
 ## Requirements
 
